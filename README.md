@@ -1,4 +1,4 @@
-# arlenejuaton.github.io
+# Arlene Juaton Portfolio Page
 
 ## Simple Bio
 
@@ -15,4 +15,7 @@ I am not a Computer Science major and this is my first time coding but i've alwa
 <a href="http://arlenejuaton.github.io/Eyes-Exercise">Eyes Repository</a>
 <a href="http://arlenejuaton.github.io/PacMen-Exercise">PacMen Repository</a>
 <a href="http://arlenejuaton.github.io/Real-Time-Bus-Tracking">RT Bus Tracker Repository</a>
+
+# License
+©2022 Copyright
 
