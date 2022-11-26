@@ -2,4 +2,4 @@
 
 ## PacMen Exercise
 
-<img src= ".png" width='300'/>
+<img src= "PacMan.png" width='300'/>
