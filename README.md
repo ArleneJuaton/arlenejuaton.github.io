@@ -15,7 +15,7 @@ I am not a Computer Science major and this is my first time coding but i've alwa
 ## Eyes
 <a href="https://arlenejuaton.github.io/eye-exercise/eyes.html">Eyes</a>
 
-<a href="http://arlenejuaton.github.io/Eyes-Exercise">Repository</a>
+<a href="https://github.com/ArleneJuaton/Eye-Exercise">Repository</a>
 
 ## PacMen
 <a href="https://arlenejuaton.github.io/PacMen%20Exercise/PacMen.html">PacMen</a>
