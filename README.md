@@ -14,3 +14,6 @@ I have included three html files (index.html, cat.html and Origin_Story.html) th
 
 # My Portfolio
 <a href="http://arlenejuaton.github.io/eyes">Eyes Repo</a>
+<a href="http://arlenejuaton.github.io/pacmen">PacMen Repo</a>
+<a href="http://arlenejuaton.github.io/Real-Time-Bus-Tracker">RT Bus Tracker</a>
+
