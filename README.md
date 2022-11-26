@@ -13,7 +13,7 @@ I am not a Computer Science major and this is my first time coding but i've alwa
 I have included three html files (index.html, cat.html and Origin_Story.html) that i have started and sort of used as a practice project for this course.
 
 # My Portfolio
-<a href="http://arlenejuaton.github.io/eyes">Eyes Repo</a>
-<a href="http://arlenejuaton.github.io/pacmen">PacMen Repo</a>
-<a href="http://arlenejuaton.github.io/Real-Time-Bus-Tracker">RT Bus Tracker</a>
+<a href="http://arlenejuaton.github.io/Eyes-Exercise">Eyes Repo</a>
+<a href="http://arlenejuaton.github.io/PacMen-Exercise">PacMen Repo</a>
+<a href="http://arlenejuaton.github.io/Real-Time-Bus-Tracking">RT Bus Tracker</a>
 
