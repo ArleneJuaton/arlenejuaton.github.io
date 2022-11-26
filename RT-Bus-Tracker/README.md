@@ -2,4 +2,4 @@
 
 ## Bus Tracker Exercise 
 
-<img src= ".png" width='300'/>
+<img src= "Bus Tracker.png" width='300'/>
