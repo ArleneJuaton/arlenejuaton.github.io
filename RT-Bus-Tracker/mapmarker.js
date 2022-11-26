@@ -16,7 +16,6 @@ window.onload = () => {
   createMapMarker();
 };
 
-// Do not edit code past this point
 if (typeof module !== 'undefined') {
   module.exports = { createMapMarker };
 }
