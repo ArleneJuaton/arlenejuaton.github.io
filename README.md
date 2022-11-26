@@ -1,5 +1,7 @@
 # Arlene Juaton Portfolio Page
 
+<a href="https://arlenejuaton.github.io">Portfolio</a>
+
 ## Simple Bio
 
 Course:
