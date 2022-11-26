@@ -13,13 +13,13 @@ I am not a Computer Science major and this is my first time coding but i've alwa
 # My Portfolio
 
 ## Eyes
-<a href="http://arlenejuaton.github.io/Eyes-Exercise">Github Repository</a>
+<a href="http://arlenejuaton.github.io/Eyes-Exercise">Repository</a>
 
 ## PacMen
-<a href="http://arlenejuaton.github.io/PacMen-Exercise">Github Repository</a>
+<a href="http://arlenejuaton.github.io/PacMen-Exercise">Repository</a>
 
 ## RT Bus Tracker
-<a href="http://arlenejuaton.github.io/Real-Time-Bus-Tracking">Github Repository</a>
+<a href="http://arlenejuaton.github.io/Real-Time-Bus-Tracking">Repository</a>
 
 # License
 ©2022 Copyright
