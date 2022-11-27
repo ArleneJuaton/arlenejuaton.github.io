@@ -5,7 +5,7 @@
 <a href="https://arlenejuaton.github.io">Portfolio</a>
 
 ## Future Improvements
-1. Change background to much something more dynamic
+1. Change background to something more dynamic
 2. Add bio next to picture on main page
 3. Add 'scroll' arrow that scrolls to the top of the page
 4. Add more projects
