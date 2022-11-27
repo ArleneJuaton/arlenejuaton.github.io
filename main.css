@@ -103,8 +103,9 @@ body {
 
 /*--- personnel section ---*/
 .background {
-	background: #dedec8 url("images/bacteria.png");
-    background-position: center;
+	background: #dedec8 url("images/bacteria.png") no-repeat content-box fixed;
+    	background-position: center;
+	background-size: cover;
 	padding: 4em 0;
 }
 .team {
@@ -128,7 +129,7 @@ body {
 
 /*--- footer section---*/
 .page-footer {
-    background: #222;
+    	background: #222;
 	background-color: rgb(228, 226, 226);
 	color: #ccc;
 	padding: 60px 0 30px;
