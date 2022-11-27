@@ -1,8 +1,14 @@
 /*--- page ---*/
 
 body {
+<<<<<<< HEAD
+	color: rgb(252, 248, 248);
+    background: #bebebe url("images/bacteria.png") no-repeat content-box fixed; 
+	background-size: cover;
+=======
 	color: rgb(36, 36, 36);
     background: #bebebe url("images/bacteria.png") no-repeat content-box fixed; 
+>>>>>>> c837a56363d1e6434639d2d8943cab60608bda7c
     padding: 0;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 90%;
@@ -36,7 +42,11 @@ body {
 
 /*--- main header ---*/
 .header {
+<<<<<<< HEAD
+	background-image: url("images/bacteria1.png") no-repeat content-box fixed;
+=======
 	background-image: url('images/bacteria1.png') no-repeat content-box fixed;
+>>>>>>> c837a56363d1e6434639d2d8943cab60608bda7c
 	background-size: cover;
 	background-position: center;
 	position: relative;
@@ -48,7 +58,7 @@ body {
 	left: 0;
 	top: 0;
 	background: rgba(0, 0, 0, 0.6);
-}
+} 
 .description {
 	left: 50%;
 	position: absolute;
@@ -103,8 +113,8 @@ body {
 
 /*--- personnel section ---*/
 .background {
-	background: #dedec8 url("images/bacteria.png") no-repeat content-box fixed;
-    	background-position: center;
+	/*background: url("images/bacteria.png") no-repeat content-box fixed;*/
+    background-position: center;
 	background-size: cover;
 	padding: 4em 0;
 }
@@ -129,14 +139,15 @@ body {
 
 /*--- footer section---*/
 .page-footer {
-    	background: #222;
+    background: #222;
 	background-color: rgb(228, 226, 226);
-	color: #ccc;
+	background-position: center;
+	color: rgb(246, 242, 242);
 	padding: 60px 0 30px;
 }
 .footer-copyright {
-	color: #666;
+	color: rgb(247, 244, 244);
+	background-position: center;
 	padding: 40px 0;
 }
-
 
