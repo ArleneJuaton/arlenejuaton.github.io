@@ -8,7 +8,11 @@
 1. Change background to something more dynamic
 2. Add bio next to picture on main page
 3. Add 'scroll' arrow that scrolls to the top of the page
+<<<<<<< HEAD
 4. Add more projects and other interests
+=======
+4. Add more projects
+>>>>>>> 1a8926e9779a32b63121481113b5eb7ff63cf893
 
 ## Simple Bio
 
@@ -23,6 +27,7 @@ I am not a Computer Science major and this is my first time coding but i've alwa
 # My Portfolio
 
 ## Eyes
+<<<<<<< HEAD
 <a href="http://arlenejuaton.github.io/eye-exercise/eyes.html">Eyes</a>
 
 <a href="http://arlenejuaton.github.io/Eyes-Exercise">Repository</a>
@@ -36,6 +41,21 @@ I am not a Computer Science major and this is my first time coding but i've alwa
 <a href="http://arlenejuaton.github.io/RT-Bus-Tracker/bustracker.html">Eyes</a>
 
 <a href="http://arlenejuaton.github.io/Real-Time-Bus-Tracking">Repository</a>
+=======
+<a href="https://arlenejuaton.github.io/eye-exercise/eyes.html">Eyes</a>
+
+<a href="https://github.com/ArleneJuaton/Eye-Exercise">Repository</a>
+
+## PacMen
+<a href="https://arlenejuaton.github.io/PacMen%20Exercise/PacMen.html">PacMen</a>
+
+<a href="https://github.com/ArleneJuaton/PacMen-Exercise">Repository</a>
+
+## RT Bus Tracker
+<a href="https://arlenejuaton.github.io/RT-Bus-Tracker/bustracker.html">Bus Tracker</a>
+
+<a href="https://github.com/ArleneJuaton/Real-Time-Bus-Tracking">Repository</a>
+>>>>>>> 1a8926e9779a32b63121481113b5eb7ff63cf893
 
 # License
 ©2022 Copyright
