@@ -103,12 +103,12 @@ body {
 
 /*--- personnel section ---*/
 .background {
-	background: #dedec8 url("images/bg-triangle.png");
+	background: #dedec8 url("images/bacteria.png");
     background-position: center;
 	padding: 4em 0;
 }
 .team {
-	color: #5c5b5d;
+	color: #f1ecec;
 	padding: 0 10px;
 }
 .team .card-columns {
@@ -130,12 +130,13 @@ body {
 .page-footer {
     background: #222;
 	background-color: rgb(228, 226, 226);
-	color: #ccc;
+	background-position: center;
+	color: rgb(246, 242, 242);
 	padding: 60px 0 30px;
 }
 .footer-copyright {
 	color: #666;
+	background-position: center;
 	padding: 40px 0;
 }
-
 

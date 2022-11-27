@@ -1,5 +1,15 @@
 # Arlene Juaton Portfolio Page
 
+<img src="images/picture.png" style="width: 150px; height: 150px;">
+
+<a href="https://arlenejuaton.github.io">Portfolio</a>
+
+## Future Improvements
+1. Change background to something more dynamic
+2. Add bio next to picture on main page
+3. Add 'scroll' arrow that scrolls to the top of the page
+4. Add more projects and other interests
+
 ## Simple Bio
 
 Course:
@@ -13,13 +23,19 @@ I am not a Computer Science major and this is my first time coding but i've alwa
 # My Portfolio
 
 ## Eyes
-<a href="http://arlenejuaton.github.io/Eyes-Exercise">Github Repository</a>
+<a href="http://arlenejuaton.github.io/eye-exercise/eyes.html">Eyes</a>
+
+<a href="http://arlenejuaton.github.io/Eyes-Exercise">Repository</a>
 
 ## PacMen
-<a href="http://arlenejuaton.github.io/PacMen-Exercise">Github Repository</a>
+<a href="http://arlenejuaton.github.io/PacMen-Exercise/PacMen.html">Eyes</a>
+
+<a href="http://arlenejuaton.github.io/PacMen-Exercise">Repository</a>
 
 ## RT Bus Tracker
-<a href="http://arlenejuaton.github.io/Real-Time-Bus-Tracking">Github Repository</a>
+<a href="http://arlenejuaton.github.io/RT-Bus-Tracker/bustracker.html">Eyes</a>
+
+<a href="http://arlenejuaton.github.io/Real-Time-Bus-Tracking">Repository</a>
 
 # License
 ©2022 Copyright
