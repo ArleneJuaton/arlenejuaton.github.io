@@ -1,5 +1,7 @@
 # Arlene Juaton Portfolio Page
 
+<img src="images/picture.png">
+
 <a href="https://arlenejuaton.github.io">Portfolio</a>
 
 ## Future Improvements
