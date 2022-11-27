@@ -2,7 +2,7 @@
 
 body {
 	color: rgb(36, 36, 36);
-    background: #bebebe url("bg.png"); 
+    background: #bebebe url("images/bacteria.png") no-repeat content-box fixed; 
     padding: 0;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 90%;
@@ -36,7 +36,7 @@ body {
 
 /*--- main header ---*/
 .header {
-	background-image: url('images/header-background.jpg');
+	background-image: url('images/bacteria1.png') no-repeat content-box fixed;
 	background-size: cover;
 	background-position: center;
 	position: relative;
