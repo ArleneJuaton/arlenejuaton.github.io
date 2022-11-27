@@ -1,6 +1,6 @@
 # Arlene Juaton Portfolio Page
 
-<img src="images/picture.png" style="width: 15px; height: 15px;">
+<img src="images/picture.png" style="width: 150px; height: 150px;">
 
 <a href="https://arlenejuaton.github.io">Portfolio</a>
 
