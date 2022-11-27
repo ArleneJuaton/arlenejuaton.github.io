@@ -36,7 +36,7 @@ body {
 
 /*--- main header ---*/
 .header {
-	background-image: url('images/header-background.jpg');
+	background-image: url("images/header-background.jpg");
 	background-size: cover;
 	background-position: center;
 	position: relative;
@@ -48,7 +48,7 @@ body {
 	left: 0;
 	top: 0;
 	background: rgba(0, 0, 0, 0.6);
-}
+} 
 .description {
 	left: 50%;
 	position: absolute;
@@ -103,8 +103,9 @@ body {
 
 /*--- personnel section ---*/
 .background {
-	background: #dedec8 url("images/bacteria.png");
+	background: url("images/bacteria.png") no-repeat content-box fixed;
     background-position: center;
+	background-size: cover;
 	padding: 4em 0;
 }
 .team {
