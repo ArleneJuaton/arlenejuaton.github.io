@@ -1,8 +1,8 @@
 /*--- page ---*/
 
 body {
-	color: rgb(36, 36, 36);
-    background: #bebebe url("images/bacteria.png"); 
+	color: rgb(252, 248, 248);
+    background: #bebebe url("images/bacteria.png") no-repeat content-box fixed; 
     padding: 0;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 90%;
