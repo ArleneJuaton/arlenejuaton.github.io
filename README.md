@@ -1,6 +1,6 @@
 # Arlene Juaton Portfolio Page
 
-<img class="card-img-top rounded-circle" src="images/picture.png">
+<img class="rounded-circle" src="images/picture.png">
 
 <a href="https://arlenejuaton.github.io">Portfolio</a>
 
