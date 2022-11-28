@@ -70,11 +70,10 @@ body {
 	margin: auto;
 	padding: 8em;
 	position: relative;
-	/* background: lightblue;
-	background-size: cover; */
+	background-size: cover; 
 }
 .feature-title {
-	color: #333;
+	color: rgb(171, 169, 169);
 	font-size: 1.3rem;
 	font-weight: 700;
 	margin-bottom: 20px;
@@ -103,7 +102,6 @@ body {
 
 /*--- personnel section ---*/
 .background {
-	/*background: url("images/bacteria.png") no-repeat content-box fixed;*/
     background-position: center;
 	background-size: cover;
 	padding: 4em 0;
