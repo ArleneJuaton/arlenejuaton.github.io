@@ -73,7 +73,7 @@ body {
 	background-size: cover; 
 }
 .feature-title {
-	color: rgb(171, 169, 169);
+	color: rgb(245, 244, 244);
 	font-size: 1.3rem;
 	font-weight: 700;
 	margin-bottom: 20px;
@@ -127,7 +127,7 @@ body {
 
 /*--- footer section---*/
 .page-footer {
-    background: #222;
+    background: rgb(141, 139, 139);
 	background-color: rgb(228, 226, 226);
 	background-position: center;
 	color: rgb(246, 242, 242);
