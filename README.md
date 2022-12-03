@@ -40,5 +40,5 @@ I am not a Computer Science major and this is my first time coding but i've alwa
 
 
 # License
-©2022 Copyright
+©2022 Arlene Juaton Copyright
 
