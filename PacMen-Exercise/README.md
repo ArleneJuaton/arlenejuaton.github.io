@@ -2,7 +2,7 @@
 ## PacMen Repo
 <img src= "PacMan.png" width='300'/>
 
-<a href="https://arlenejuaton.github.io/PacMen%20Exercise/PacMen.html">PacMen</a>
+<a href="https://arlenejuaton.github.io/PacMen-Exercise/PacMen.html">PacMen</a>
 
 <a href="https://github.com/ArleneJuaton/PacMen-Exercise">Repository</a>
 
