@@ -29,12 +29,12 @@ I am not a Computer Science major and this is my first time coding but i've alwa
 <a href="http://arlenejuaton.github.io/Eyes-Exercise">Repository</a>
 
 ## PacMen
-<a href="http://arlenejuaton.github.io/PacMen-Exercise/PacMen.html">Eyes</a>
+<a href="http://arlenejuaton.github.io/PacMen-Exercise/PacMen.html">PacMen</a>
 
 <a href="http://arlenejuaton.github.io/PacMen-Exercise">Repository</a>
 
 ## RT Bus Tracker
-<a href="http://arlenejuaton.github.io/RT-Bus-Tracker/bustracker.html">Eyes</a>
+<a href="http://arlenejuaton.github.io/RT-Bus-Tracker/bustracker.html">RT Bus Tracker</a>
 
 <a href="http://arlenejuaton.github.io/Real-Time-Bus-Tracking">Repository</a>
 
